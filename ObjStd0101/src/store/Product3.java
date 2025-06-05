@@ -1,4 +1,4 @@
 package store;
 
-public class Producr3{
+public class Product3{
 }
